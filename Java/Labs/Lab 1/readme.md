@@ -46,3 +46,15 @@ You need to implement one class called, BIM with all the properties and methods.
 > The BMI is 20.95
 
 > Normal
+
+# Task 3: Test Ball
+
+Output the following information on the console:
+1. Print out the color of the ball
+2. Print out the radius of the ball
+
+The output looks like the following: 
+
+```Java
+The color of the ball:java.awt.Color[r=255,g=0,b=0] The radius of the ball:20.0
+```
