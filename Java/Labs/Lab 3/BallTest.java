@@ -104,8 +104,7 @@ class BallDisplay {
     }
 
     public int getBallSize() {
-        float result = (this.radius * this.radius * this.radius * 4) / 3;
-        return (int) (result * Math.PI);
+        return this.radius;
     }
 }
 
