@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Dash"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dash">
+				<Option output="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Dash.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers"/>
+					<Add directory="/usr/include"/>
+					<Add directory="c:/SFML/include"/>
+					<Add directory="C:/SFML/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dash"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Dash/fast">
+				<Option output="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Dash.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers"/>
+					<Add directory="/usr/include"/>
+					<Add directory="c:/SFML/include"/>
+					<Add directory="C:/SFML/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 Dash/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/audio.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/death.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/engine.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/entity.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/gamestate.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/platform.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/player.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/score.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/headers/sound.hpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/audio.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/death.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/engine.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/gamestate.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/main.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/platform.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/player.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/score.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/src/sound.cpp">
+			<Option target="Dash"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/hakim/CLionProjects/C++ Project/Updated/shobuedonenootsure/Dash/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
